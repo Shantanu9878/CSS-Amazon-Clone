@@ -157,8 +157,6 @@ span{
     align-items: center;
     justify-content: center;
     font-size: 0.85rem;
-    /* position: relative;
-    bottom: 25px; */
     width: 80%;
     margin: 25px;
 }
@@ -178,7 +176,6 @@ span{
 }
 
 .box{
-    /* border: 2px solid black; */
     height: 400px;
     width: 23%;
     background-color: white;
@@ -202,46 +199,7 @@ span{
     color:#007185;
 }
 
-.signin{
-    background-color:white ;
-    margin: 30px;
-}
 
-.signin-sec{
-    background-color:#e2e7e6;
-    padding-top: 30px;
-    padding-bottom: 30px;
-}
-
-.signin-sec button{
-    position: relative;
-    left:700px;
-    width: 200px;
-    height: 30px;
-    background-color: rgb(248, 219, 53);
-    border: none;
-    color: black;
-    border-radius: 5px;
-    display: block;
-    margin-top: 10px;
-    margin-bottom: 10px;
-}    
-.signin-p1{
-    text-align: center;
-}
-
-.signin-p2{
-    display: inline;
-    position: relative;
-    left:700px;
-}
-
-.signin-sec a{
-    position: relative;
-    left:700px;
-    color: #007185;
-    text-decoration: none;
-}
 
 
 /* footer */
